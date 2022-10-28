@@ -2,7 +2,7 @@
 title: First  Post
 description: Learning how to create a blog
 author: Known Well
-img: first-post.jpg
+img: images/Overview-site-Overview.drawio.svg
 alt: my first blog post
 ---
 # First Post
