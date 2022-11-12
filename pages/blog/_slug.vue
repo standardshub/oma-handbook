@@ -24,9 +24,10 @@
     </ul>
   </div>
   </div>
-</nav>
+</nav>a
 
     <h1>Single Page</h1>
+
   </div>
 </template>
 
