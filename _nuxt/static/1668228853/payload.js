@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", (function(a){return {data:[{articles:[{slug:"first-post",description:"Learning how to create a blog",title:"First  Post",author:"Known Well",img:a},{slug:"second-post",description:"Just Checkingg",title:"Second  Post",author:"JP",img:a}]}],fetch:{},mutations:void 0}}(null)));
