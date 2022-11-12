@@ -1,6 +1,6 @@
 ---
 title: Second  Post
-description: Just Checkingg
+description: Just Checking
 author: JP
 img:
 alt: my second blog post
