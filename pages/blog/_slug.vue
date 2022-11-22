@@ -28,7 +28,8 @@
 
     <h1>Multiple Page</h1>
     <figure>
-      <img src="images/Overview-site-General.drawio.png">
+      <img src="images/Overview-site-General.drawio.png"
+      >
       <figcaption>test</figcaption>
     </figure>
 
