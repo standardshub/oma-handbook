@@ -9,4 +9,4 @@ alt: my first blog post
 
 This is an example of content of the First post in **My Blog**.
 
-![alt Overview](Overview-site-Overview.drawio.svg)
+![alt Overview](/images/Overview-site-Overview.drawio.svg)
